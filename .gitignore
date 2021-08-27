@@ -116,7 +116,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-yarn.lock
-.jpg
-.png
-.jpeg
+*.lock
+*.jpg
+*.png
+*.jpeg
