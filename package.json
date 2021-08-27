@@ -1,0 +1,11 @@
+{
+  "name": "CamToAscii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "image-clipper": "^0.4.4",
+    "node-canvas": "^2.7.0",
+    "node-webcam": "^0.8.0"
+  }
+}
